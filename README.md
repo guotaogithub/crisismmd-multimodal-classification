@@ -11,18 +11,6 @@ This project builds a multimodal classifier for social media posts related to di
 * `misinformation`: False or misleading content
 * `irrelevant`: Unrelated or noisy posts
 
----
-
-好的，郭大王。以下是**补充详细数据集构建说明后的中英文 README 数据集部分**，详细描述了：
-
-* 多源数据筛选原因与标准
-* 标注逻辑与策略
-* 清洗与整合操作流程
-
-您可以直接替换前面的 dataset 部分内容：
-
----
-
 ## 2. Dataset Construction
 
 ### Data Sources and Motivation
