@@ -1,0 +1,17 @@
+# IDE and OS files
+.idea/
+.DS_Store
+__pycache__/
+*.pyc
+
+# Model files
+*.pth
+*.pt
+
+# Python virtual environment
+venv/
+.env
+
+*.zip
+*.tar.gz
+.ipynb_checkpoints/
